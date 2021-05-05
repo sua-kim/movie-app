@@ -1,4 +1,4 @@
-# [EFUB 3주차 세미나 과제] ReactJS로 영화 웹 서비스 만들기
+# [EFUB 3주차 세미나] 영화 웹 서비스 만들기
 
 [참고 사이트](https://nomadcoders.co/react-fundamentals)
 
